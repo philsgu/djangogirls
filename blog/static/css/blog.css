@@ -90,14 +90,10 @@ a {
     justify-content: space-between;
 }
 
-.add-icon {
-    width: 50px; /* Adjust size as needed */
-    height: 50px; /* Adjust size as needed */
-    fill: white; /* This sets the SVG color to white */
-}
 
 .add-icon svg {
-    width: 100%;
-    height: 100%;
+    width: 10%;
+    height: 10%;
+    fill: white; /* This sets the SVG color to white */
 }
 
